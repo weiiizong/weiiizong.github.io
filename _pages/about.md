@@ -13,4 +13,4 @@ I am a 5th year PhD student at [George Tseng's Lab](http://tsenglab.biostat.pitt
 My research interest lies in the intersection between statistical methodology and its applications to genomics and bioinformatics. I am particularly interested in statistical modeling of high‑dimensional data, Bayesian modeling, cross‑species congruence evaluation and circadian analysis. In addition to methodology development, I have also been collaborating with researchers in the field of psychiatry and helped analyze a broad range of genomic data
 (e.g. gene expression data from microarray and RNA-seq platforms, mass spectrometry based proteomic data, etc.) and clinical data.
 
-Link to my [CV](http://weiiizong.github.io/files/WeiZong_CV.pdf)
+Link to my [CV](http://weiiizong.github.io/files/WeiZong_CV.pdf).
