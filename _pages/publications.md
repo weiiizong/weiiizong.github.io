@@ -6,11 +6,9 @@ author_profile: true
 ---
 
 ## Methodology
-**Wei Zong**, George C. Tseng. (2022+) Model‑based multiple clustering algorithm for high‑dimensional omics data. In Preparation.
-**Wei Zong**, Lu Tang, George C. Tseng. (2022+) Multivariate guided disease subtyping for high‑dimensional omics data. Ready to Submit.
-**Wei Zong**, Tanbin Rahman, Li Zhu, Xiangrui Zeng, Yingjin Zhang, Jian Zou, Song Liu, Zhao Ren, Jingyi Jessica Li, Steffi Osterreich, Tianzhou Ma, George C. Tseng. (2022+) Transcriptomic congruence analysis for evaluating model organisms. Accepted in PNAS. [paper](https://www.biorxiv.org/content/10.1101/2021.11.21.469371v1)
+**Wei Zong**, Tanbin Rahman, Li Zhu, Xiangrui Zeng, Yingjin Zhang, Jian Zou, Song Liu, Zhao Ren, Jingyi Jessica Li, Steffi Osterreich, Tianzhou Ma, George C. Tseng. (2022+) Transcriptomic congruence analysis for evaluating model organisms. Accepted in PNAS. [Biorxiv](https://www.biorxiv.org/content/10.1101/2021.11.21.469371v1)
 
-**Wei Zong**, Marianne L. Seney, Kyle D. Ketchesin, Michael T. Gorczyca, Andrew C. Liu, Karyn A. Esser, George C. Tseng, Colleen A. McClung, Zhiguang Huo. (2022+) Experimental design and power calculation in omics circadian rhythmicity detection. Submitted to Statistics in Medicine. [paper](https://www.biorxiv.org/content/10.1101/2022.01.19.476930v1) 
+**Wei Zong**, Marianne L. Seney, Kyle D. Ketchesin, Michael T. Gorczyca, Andrew C. Liu, Karyn A. Esser, George C. Tseng, Colleen A. McClung, Zhiguang Huo. (2022+) Experimental design and power calculation in omics circadian rhythmicity detection. Submitted to Statistics in Medicine. [Biorxiv](https://www.biorxiv.org/content/10.1101/2022.01.19.476930v1) 
 
 Xiangning Xue, **Wei Zong**, Zhiguang Huo, Kyle D. Ketchesin, Madeline R. Scott, Kaitlyn A. Petersen, Ryan W. Logan, Marianne L. Seney , Colleen McClung and George Tseng. (2022+) DiffCircaPipeline: A framework for multifaceted characterization of differential rhythmicity. Accepted in Bioinformatics.
 
