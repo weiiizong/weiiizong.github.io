@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-# Statistical Methodology
-## 1. Cross-species congruence evaluation
+# 1. Statistical Methodology
+## 1.1. Cross-species congruence evaluation
 ### Past and on-going research
 
 Model organisms are instrumental substitutes for human studies to expedite basic, translational, and clinical research. Despite their indispensable role in mechanistic investigation and drug development, molecular congruence of animal models to human has long been questioned and debated. We have developed a framework, namely Congruence Analysis for Model Organisms (CAMO) [1], using a threshold-free Bayesian differential expression analysis to avoid the subjective p-value cutoff and quantitative concordance/discordance scores based on F-measure from machine learning perspective to numerically quantify the congruence level. The downstream analyses of this framework utilize pathwaycentric downstream investigation, knowledge retrieval by text mining and community detection algorithm in pathway topological structure to provide foundations for biological hypothesis generation.
@@ -20,7 +20,7 @@ implement without requiring any R programming knowledge.
 ### Publication
 [1] **Wei Zong**, Tanbin Rahman, Li Zhu, Xiangrui Zeng, Yingjin Zhang, Jian Zou, Song Liu, Zhao Ren, Jingyi Jessica Li, Etienne Sibille, Adrian V. Lee, Steffi Oesterreich, Tianzhou Ma and George C. Tseng. Transcriptomic congruence analysis for evaluating model organisms. _Accepted at Proceedings of the National Academy of Sciences_.
 
-## 2. High-dimensional clustering
+## 1.2. High-dimensional clustering
 ### Past and on-going research
 
 Pathway enrichment analysis provides a knowledge-driven approach to interpret differentially expressed genes associated with disease status. However, when multiple studies of different conditions are jointly analyzed, novel integrative tools are needed. In addition, pathway redundancy introduced by combining multiple public pathway databases hinders interpretation and knowledge discovery. We have developed a meta-analytical tool, Comparative Pathway Integrator (CPI), to address this using adaptively weighted Fisher’s method to discover consensual and differential enrichment patterns, a tight clustering algorithm to reduce pathway redundancy, and a text mining algorithm to assist interpretation of the pathway clusters [2].
@@ -33,7 +33,7 @@ Another approach to explore the multifaceted information in omics data is to con
 [2] Xiangrui Zeng^, **Wei Zong**^, Chien-Wei Lin, Zhou Fang, Tianzhou Ma, David A Lewis, John F Enwright, George C. Tseng. Comparative Pathway Integrator: a framework of meta-analytic integration of multiple transcriptomic studies for consensual and differential pathway analysis. _Genes (2020)_.
 [3] **Wei Zong**, Lu Tang, George C. Tseng. Multivariate guided disease subtyping for high-dimensional omics data. _Ready to submit_.
 
-## 3. Circadian analysis
+## 1.3. Circadian analysis
 ### Past and on-going research
 Circadian rhythms are 24-hour oscillations of behavioral and biological processes that adapt life to the diurnal daylight cycle. The disruption of the molecular circadian rhythms is associated with the development of various psychiatric diseases and thus there is increasing interest in circadian studies to reveal molecular mechanisms of rhythm-related physiological processes and disease etiology. Cosinor model is one of the most popular approaches for molecular circadian rhythm analysis which assumes the expression level of a gene is a sinusoidal function of the circadian time. However, due to the complexity of the non-linear relationship, circadian detection power calculation is usually achieved through a timeconsuming Monte-Carlo simulation (MC). I have developed an analytical method, namely CircaPower, to perform fast and accurate circadian power analysis [4]. When a contrasting condition exists, differential circadian analysis can be used to investigate if the condition shift is associated with rhythm disruption. A systematic workflow (DiffCircaPipeline) has been proposed to detect multifaceted differential circadian
 characteristics including phase, amplitude, and rhythm fitness [5].
