@@ -35,5 +35,4 @@ Marianne L Seney, Kelly Cahill, John F Enwright, Ryan W Logan, Zhiguang Huo, **W
 
 
 
-[//]: #{% include base_path %})
 
