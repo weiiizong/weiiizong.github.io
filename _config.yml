@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wei Zong"
 title_separator          : "-"
 name                     : &name "Wei Zong"
-description              : &description "Ph.D candidate in Biostatistics at University of Pittsburgh"
+description              : &description "Ph.D in Biostatistics"
 url                      : https://weiiizong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weiiizong.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Wei Zong"
   avatar           : "WZ.jpg"
-  bio              : "Ph.D candidate in Biostatistics at University of Pittsburgh"
-  location         : "Pittsburgh, PA"
+  bio              : "Ph.D in Biostatistics at University of Pittsburgh"
+  location         : "Watertown, MA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=EMzAoAkAAAAJ&hl=en"
