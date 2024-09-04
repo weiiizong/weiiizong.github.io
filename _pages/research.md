@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 ---
@@ -46,7 +46,7 @@ RyanW. Logan, Marianne L. Seney , Colleen McClung and George Tseng. (2023) DiffC
 
 
 # Interdisciplinary Application
-My collaborative work focuses on investigating the molecular circadian rhythm shift in different psychiatric disorders (e.g., bipolar disorder, major depression, drug addiction, etc.), gender groups, and brain regions. We have explored the effects of psychosis and schizophrenia on circadian patterns of gene expression in the human striatum [7] and prefrontal cortex [8] respectively using RNA-seq data from postmortem samples. We investigated the molecular rhythms across the three striatal subregions (caudate, putamen, and nucleus accumbens) in the human dorsal and ventral striatum, which establishes a temporal map of rhythms across the human striatum and helps in understanding how disruption could lead to pathology [9]. For drug addiction, we studied the molecular circadian disruption in people with opioid use disorder using postmortem samples in the two key brain areas associated with dysfunction of activity in corticostriatal circuits (prefrontal cortex and nucleus accumbens) [10]. Besides human studies, I am also working on multiple mouse datasets to investigate molecular rhythms in different neuron cell types including astrocyte, D1, D2 and homogenate [11, 12, ].
+My collaborative work focuses on investigating the molecular circadian rhythm shift in different psychiatric disorders (e.g., bipolar disorder, major depression, drug addiction, etc.), gender groups, and brain regions. We have explored the effects of psychosis and schizophrenia on circadian patterns of gene expression in the human striatum [7] and prefrontal cortex [8] respectively using RNA-seq data from postmortem samples. We investigated the molecular rhythms across the three striatal subregions (caudate, putamen, and nucleus accumbens) in the human dorsal and ventral striatum, which establishes a temporal map of rhythms across the human striatum and helps in understanding how disruption could lead to pathology [9]. For drug addiction, we studied the molecular circadian disruption in people with opioid use disorder using postmortem samples in the two key brain areas associated with dysfunction of activity in corticostriatal circuits (prefrontal cortex and nucleus accumbens) [10]. Besides human studies, I am also working on multiple mouse datasets to investigate molecular rhythms in different neuron cell types including astrocyte, D1, D2 and homogenate [11, 12].
 
 ### Highlight Publication
 [7] Kyle D Ketchesin^, **Wei Zong**^, Mariah A Hildebrand, Madeline R Scott, Marianne L Seney, Kelly M Cahill, Vaishnavi G Shankar, Jill R Glausier, David A Lewis, George C Tseng, Colleen A McClung. (2022) Diurnal alterations in gene expression across striatal subregions in psychosis. _Biological Psychiatry_.
