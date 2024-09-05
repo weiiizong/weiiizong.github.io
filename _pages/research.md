@@ -61,4 +61,4 @@ My collaborative work focuses on investigating the molecular circadian rhythm sh
 
 [12] Kaitlyn A Petersen, **Wei Zong**, Lauren M Depoy, Madeline R Scott, Vaishnavi G Shankar, Jennifer N Burns, Allison J Cerwensky, Sam-Moon Kim, Kyle D Ketchesin, George C Tseng, Colleen A McClung. (2024) Comparative rhythmic transcriptome profiling of human and mouse striatal subregions. _Neuropsychopharmacology_.
 
-[13] Darius D Becker-Krail, Kyle D Ketchesin, Jennifer N Burns, **Wei Zong**, Mariah A Hildebrand, Lauren M DePoy, Chelsea A Vadnie, George C Tseng, Ryan W Logan, Yanhua H Huang, Colleen A McClung. (2022) Astrocyte Molecular Clock Function in the Nucleus Accumbens is Important for Reward-Related Behavior. _Biological Psychiatry _.
+[13] Darius D Becker-Krail, Kyle D Ketchesin, Jennifer N Burns, **Wei Zong**, Mariah A Hildebrand, Lauren M DePoy, Chelsea A Vadnie, George C Tseng, Ryan W Logan, Yanhua H Huang, Colleen A McClung. (2022) Astrocyte Molecular Clock Function in the Nucleus Accumbens is Important for Reward-Related Behavior. _Biological Psychiatry_.
