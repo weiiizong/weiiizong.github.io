@@ -27,9 +27,9 @@ Kaitlyn A Petersen, **Wei Zong**, Lauren M Depoy, Madeline R Scott, Vaishnavi G 
 
 Kyle D Ketchesin^, **Wei Zong**^, Mariah A Hildebrand, Madeline R Scott, Marianne L Seney, Kelly M Cahill, Vaishnavi G Shankar, Jill R Glausier, David A Lewis, George C Tseng, Colleen A McClung. (2023) Diurnal alterations in gene expression across striatal subregions in psychosis. _Biological Psychiatry_. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0006322322015220)
 
-Madeline R Scott, Wei Zong, Kyle D Ketchesin, Marianne L Seney, George C Tseng, Bokai Zhu, Colleen A McClung. (2023) Twelve-hour rhythms in transcript expression within the human dorsolateral prefrontal cortex are altered in schizophrenia. _PLoS Biology_. [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001688)
+Madeline R Scott, **Wei Zong**, Kyle D Ketchesin, Marianne L Seney, George C Tseng, Bokai Zhu, Colleen A McClung. (2023) Twelve-hour rhythms in transcript expression within the human dorsolateral prefrontal cortex are altered in schizophrenia. _PLoS Biology_. [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001688)
 
-Xiangning Xue, Wei Zong, Jill R Glausier, Sam-Moon Kim, Micah A Shelton, BaDoi N Phan, Chaitanya Srinivasan, Andreas R Pfenning, George C Tseng, David A Lewis, Marianne L Seney, Ryan W. Logan. (2022) Molecular rhythm alterations in prefrontal cortex and nucleus accumbens associated with opioid use disorder. _Translational Psychiatry_. [paper](https://www.nature.com/articles/s41398-022-01894-1)
+Xiangning Xue, **Wei Zong**, Jill R Glausier, Sam-Moon Kim, Micah A Shelton, BaDoi N Phan, Chaitanya Srinivasan, Andreas R Pfenning, George C Tseng, David A Lewis, Marianne L Seney, Ryan W. Logan. (2022) Molecular rhythm alterations in prefrontal cortex and nucleus accumbens associated with opioid use disorder. _Translational Psychiatry_. [paper](https://www.nature.com/articles/s41398-022-01894-1)
 
 Darius D Becker‑Krail, Kyle D Ketchesin, Jennifer N Burns, **Wei Zong**, Mariah A Hildebrand, Lauren M DePoy, Chelsea A Vadnie, George C Tseng, Ryan W Logan, Yanhua H Huang, Colleen A McClung. (2022) Astrocyte molecular clock function in the nucleus accumbens is important for reward‑related behavior. _Biological Psychiatry_. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0006322322000944)
 
