@@ -21,6 +21,8 @@ Xiangning Xue, **Wei Zong**, Zhiguang Huo, Kyle D. Ketchesin, Madeline R. Scott,
 Xiangrui Zeng^, **Wei Zong**^, Chien‑Wei Lin, Zhou Fang, Tianzhou Ma, David A Lewis, John F Enwright, George C Tseng. (2020) Comparative Pathway Integrator: a framework of meta‑analytic integration of multiple transcriptomic studies for consensual and differential pathway analysis. _Genes_. [paper](https://www.mdpi.com/2073‑4425/11/6/696)
 
 ## Application
+Megan S. Perez, RuoFei Yin, Madeline R. Scott, **Wei Zong**, Marianne L. Seney, Xiangning Xue, Mariah A. Hildebrand, Vaishnavi G. Shankar, Jill R. Glausier, David A. Lewis, George C. Tseng, Kyle D. Ketchesin, Colleen A. McClung. (2025) Sex and regional differences in gene expression across the striatum in psychosis. _Translational Psychiatry_. [paper](https://www.nature.com/articles/s41398-025-03395-3)
+
 Lauren M. DePoy, Kaitlyn A. Petersen, **Wei Zong**, Kyle D. Ketchesin, Ross C. Matthaei, RuoFei Yin, Megan S. Perez, Chelsea A. Vadnie, Darius Becker-Krail, Madeline R. Scott, George C Tseng, Colleen A. McClung. (2024) Cell-type and sex-specific rhythmic gene expression in the nucleus accumbens. _Molecular Psychiatry_. [paper](https://www.nature.com/articles/s41380-024-02569-7)
 
 Kaitlyn A Petersen, **Wei Zong**, Lauren M Depoy, Madeline R Scott, Vaishnavi G Shankar, Jennifer N Burns, Allison J Cerwensky, Sam-Moon Kim, Kyle D Ketchesin, George C Tseng, Colleen A McClung. (2024) Comparative rhythmic transcriptome profiling of human and mouse striatal subregions. _Neuropsychopharmacology_. [paper](https://www.nature.com/articles/s41386-023-01788-w)
