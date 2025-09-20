@@ -13,4 +13,4 @@ Hi, I'm Wei Zong. I earned my PhD in Biostatistics from the University of Pittsb
 My research lies at the intersection of statistical methodology and its interdisciplinary applications in
 biomedical research, with a broad goal of advancing health data science. I am particularly interested in developing statistical models for high-dimensional data to support informed decision-making from large-scale datasets. On the application side, I collaborated with researchers in psychiatry to analyze a wide range of omics and clinical data.
 
-Link to my [CV](http://weiiizong.github.io/files/WeiZong_CV_2025.pdf).
+Link to my [CV](http://weiiizong.github.io/files/WeiZ_CV_2025.pdf).
